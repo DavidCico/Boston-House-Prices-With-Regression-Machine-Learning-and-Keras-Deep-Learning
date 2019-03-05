@@ -37,7 +37,7 @@ https://jupyter.readthedocs.io/en/latest/install.html for the Jupyter Notebook
 
 ### File descriptions
 <ul>
-    <li><p align="justify">"Boston_regression_analysis.ipynb" in which the complete procedure for the regression case study of Boston house pricing is explained. This covers different types of models, hyperparameter search, features visualization and standardization, for the choice of the most appropriate model in terms of lowest negative mean squared error.</p></li>
+    <li><p align="justify">"Boston_regression_analysis.ipynb" in which the complete procedure for the regression case study of Boston house pricing is explained. This covers different types of models, hyperparameters search, features visualization and standardization, for the choice of the most appropriate model in terms of lowest negative mean squared error.</p></li>
     
 <li><p align="justify">"housing.csv" contains the dataset of the Boston house prices in csv format.</p></li>
 
