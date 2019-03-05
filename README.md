@@ -37,9 +37,9 @@ https://jupyter.readthedocs.io/en/latest/install.html for the Jupyter Notebook
 
 ### File descriptions
 <ul>
-    <li><p align="justify">"Univariate_analysis_classic_methods.ipynb" in which the univariate time series analysis using ARIMA and SARIMA models is carried out. A rolling forward window approach (walk-forward validation) is used on a weekly period to forecast the price of the currency on the next week.</p></li>
+    <li><p align="justify">"Boston_regression_analysis.ipynb" in which the complete procedure for the regression case study of Boston house pricing is explained. This covers different types of models, hyperparameter search, features visualization and standardization, for the choice of the most appropriate model in terms of lowest negative mean squared error.</p></li>
     
-<li><p align="justify">"Grid_search_models_hyperparameters.ipynb" shows a procedure to find the best hyperparameters for the ARIMA and SARIMA models, for the time series analysis approach used in the file above.</p></li>
+<li><p align="justify">"housing.csv" contains the dataset of the Boston house prices in csv format.</p></li>
 
 </ul>
 
