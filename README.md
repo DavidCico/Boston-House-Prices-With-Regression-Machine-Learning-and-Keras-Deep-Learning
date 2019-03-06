@@ -1,6 +1,6 @@
 # Boston-House-Prices-With-Regression-Machine-Learning
 
-<p align="justify">In this repository, a regression analysis is conducted using different machine learning models. The study is led on the median value of owner-occupied homes from the Boston house pricing dataset. The project is carried out by selecting different regression models and finding the most suitable one. The procedure consists in different steps ranging from data visualization, features standardization, model tuning and hyperparameters search to find which model is the most accurate in terms of minimal mean squared error, for the comparison of predicted prices with the real prices.</p>
+<p align="justify">In this repository, a regression analysis is conducted using different machine learning models. The study is led on the prediction of median value of owner-occupied homes, from the Boston house pricing dataset. The project is carried out by selecting different regression models and finding the most suitable one. The procedure consists in different steps ranging from data visualization, features standardization, model tuning and hyperparameters search to find which model is the most accurate in terms of minimal mean squared error, for the comparison of predicted prices with the real prices.</p>
 
 ## Getting Started
 
