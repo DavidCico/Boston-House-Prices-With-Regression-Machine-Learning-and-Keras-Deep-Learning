@@ -8,7 +8,7 @@
 
 ### Prerequisites
 
-<p align="justify">You need Python 3.x to run the following code.  You can have multiple Python versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, and finally Seaborn as there are dependencies on packages.</p>
+<p align="justify">You need Python 3.x to run the following code.  You can have multiple Python versions (2.x and 3.x) installed on the same system without problems. Python needs to be first installed then SciPy, as there are dependencies on packages.</p>
 
 In Ubuntu, Mint and Debian you can install Python 3 like this:
 
@@ -18,9 +18,9 @@ Alongside Python, the SciPy packages are also required. In Ubuntu and Debian, th
 
     sudo apt-get install python-numpy python-scipy python-matplotlib ipython ipython-notebook python-pandas python-sympy python-nose
 
-For pipelining and parallel tasks, the joblib library can be installed using the <a href="https://pypi.org/project/pip/">pip</a> package manager:
+For deep learning tasks, the Keras library can be installed using the <a href="https://pypi.org/project/pip/">pip</a> package manager:
 
-    pip install joblib
+    sudo pip install keras
 
 Finally, the Jupyter Notebook which can be installed through Python's package manager:
 
@@ -31,7 +31,7 @@ For other Linux flavors, OS X and Windows, packages are available at:
 
 http://www.python.org/getit/ for Python    
 https://www.scipy.org/install.html for the SciPy ecosystem    
-https://joblib.readthedocs.io/en/latest/installing.html for the joblib library    
+https://keras.io/#installation for the Keras library    
 https://jupyter.readthedocs.io/en/latest/install.html for the Jupyter Notebook    
 
 
