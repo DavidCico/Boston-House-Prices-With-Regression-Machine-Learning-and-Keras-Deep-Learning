@@ -37,11 +37,11 @@ https://jupyter.readthedocs.io/en/latest/install.html for the Jupyter Notebook
 
 ### File descriptions
 <ul>
-    <li><p align="justify">"Boston_regression_analysis.ipynb" in which the complete procedure for the regression case study of Boston house pricing is explained. This covers different types of models, hyperparameters search, features visualization and standardization, for the choice of the most appropriate model in terms of lowest negative mean squared error.</p></li>
+<li><p align="justify">"<em>Boston_regression_analysis.ipynb</em>" in which the complete procedure for the regression case study of Boston house pricing is explained. This covers different types of models, hyperparameters search, features visualization and standardization, for the choice of the most appropriate model in terms of lowest negative mean squared error.</p></li>
 
-<li><p align="justify">"Boston_deeplearning_regression.ipynb" which treats of the Boston house price with deep learning neural networks using the Keras library. Standardization, and influence of the number of hidden layers, and neuron inside the hidden layers are covered, to give a direction towards the best performing network.</p></li>
+<li><p align="justify">"<em>Boston_deeplearning_regression.ipynb</em>" which treats of the Boston house price with deep learning neural networks using the Keras library. Standardization, and influence of the number of hidden layers, and neuron inside the hidden layers are covered, to give a direction towards the best performing network.</p></li>
 
-<li><p align="justify">"housing.csv" contains the dataset of the Boston house prices in csv format.</p></li>
+<li><p align="justify">"<em>housing.csv</em>" contains the dataset of the Boston house prices in csv format.</p></li>
 
 </ul>
 
